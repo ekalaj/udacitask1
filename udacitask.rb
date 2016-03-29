@@ -26,3 +26,6 @@ items.print_list
 items.update_tittle
 # Print the list
 items.print_list
+# Marking all items incomplete
+items.not_finished
+items.print_list

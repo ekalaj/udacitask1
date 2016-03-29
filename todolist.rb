@@ -15,7 +15,7 @@ class TodoList
 
     def print_list
     	puts ""
-    	puts "#{@person}}'s #{@tittle}"
+    	puts "#{@person}'s #{@tittle}"
     	puts "*******************************"
     	print_chores
     	puts "*******************************"
@@ -31,7 +31,7 @@ class TodoList
         @chores.delete_at(chore_position)
     end
 
-    def update_title
+    def update_tittle
         @title = "Chore List"  
     end
 
@@ -57,11 +57,11 @@ class Chore
     	@finished_status = false
     end
 
-    def complete_item_status
+    def finished_chore_status
     	@finished_status = true
     end
 
-    def print_each_item(item)
+    def print_each_chore(chore)
         puts
         puts "Chore: #{@description}"
         puts "Finish By: #{@due_date}"
