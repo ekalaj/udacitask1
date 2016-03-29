@@ -51,9 +51,9 @@ class Chore
     # methods and stuff go here
     attr_reader :description, :due_date, :finished_status
 
-    def initialize(item_description)
-    	@description = item_description
-    	@due_date = "one week"
+    def initialize(chore_description)
+    	@description = chore_description
+    	@due_date = "Today"
     	@finished_status = false
     end
 
@@ -64,7 +64,7 @@ class Chore
     def print_each_item(item)
         puts
         puts "Chore: #{@description}"
-        puts "Due date: #{@due_date}"
+        puts "Finish By: #{@due_date}"
         puts "Finished status: #{@finished_status}" 
         puts
     end
