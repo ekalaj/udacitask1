@@ -27,6 +27,6 @@ items.print_list
 items.update_tittle
 # Print the list
 items.print_list
-# Marking all items incomplete
+# Marking second item on the list complete
 items.finished_chore(1)
 items.print_list
