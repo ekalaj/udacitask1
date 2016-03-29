@@ -15,7 +15,7 @@ class TodoList
 
     def print_list
     	puts ""
-    	puts "#{@person}'s #{@tittle}"
+    	puts "#{@person}}'s #{@tittle}"
     	puts "*******************************"
     	print_chores
     	puts "*******************************"

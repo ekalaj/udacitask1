@@ -8,6 +8,7 @@ items.add_chore("Get dry cleaning TODAY")
 items.add_chore("Get diapers and milk on the way home")
 items.add_chore("Call lawyer for the speeding ticket")
 items.add_chore("Call comcast, they overcharged again!")
+items.add_chore("Finish the todolist")
 # Print the list
 items.print_list
 # Delete the first item
@@ -27,5 +28,5 @@ items.update_tittle
 # Print the list
 items.print_list
 # Marking all items incomplete
-items.not_finished
+items.finished_chore(1)
 items.print_list

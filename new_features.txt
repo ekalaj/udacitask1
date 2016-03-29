@@ -1,0 +1,3 @@
+Feature #1: Put due date for Today
+Feature #2: Added person the list belongs to 
+Feature #3: Marked the second item as finished.

@@ -1,0 +1,36 @@
+commit 11aa14fe9a844d570e4b2da659c124c01526bd65
+Author: Ervin Kalaj <Ekalaj@gmail.com>
+Date:   Tue Mar 29 00:54:06 2016 -0400
+
+    Ran the code, "It's ALIVE"
+
+commit de473b3c120cd6bc8575760b2792b111b7390b2d
+Author: Ervin Kalaj <Ekalaj@gmail.com>
+Date:   Tue Mar 29 00:26:45 2016 -0400
+
+    Made some changes on ReadMe file
+
+commit b9a6ae9fd2f9154b7190b7be7369a6cea5e56cad
+Author: Ervin Kalaj <Ekalaj@gmail.com>
+Date:   Mon Mar 28 23:54:26 2016 -0400
+
+    Just saving what I've worked so far. The app is borken at the moment.
+
+commit 2aed6f13fcf2c2c8c45f1bf0a3eb239b6b394644
+Merge: 59e04b3 94bdfed
+Author: Ervin Kalaj <Ekalaj@gmail.com>
+Date:   Mon Mar 28 23:24:10 2016 -0400
+
+    Git GUI is gettin interestingly frustrating.
+
+commit 59e04b366e65d76e6a7ba97c160c94bb6262c376
+Author: Ervin Kalaj <Ekalaj@gmail.com>
+Date:   Mon Mar 28 23:03:31 2016 -0400
+
+    Inital commit
+
+commit 94bdfed876ec10db779bd49c994aaba4762b6afa
+Author: ekalaj <ekalaj@gmail.com>
+Date:   Mon Mar 28 23:01:57 2016 -0400
+
+    Initial commit
